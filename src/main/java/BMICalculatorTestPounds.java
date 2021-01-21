@@ -5,6 +5,10 @@ import org.testng.annotations.Test;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
+/**
+ * @author Valentin
+ */
+
 public class BMICalculatorTestPounds {
     @Test
     public void calcTest1(){
